@@ -1,0 +1,7 @@
+pandas: For reading Excel files.
+
+Pillow: For image processing and manipulation.
+
+arabic-reshaper: For reshaping Arabic text.
+
+python-bidi: For correct Arabic text display.
